@@ -47,6 +47,5 @@ func main() {
 		
 	}
 	
-	// Run the server
 	r.Run(":8081")
 }
